@@ -1,2 +1,1 @@
-# -cyberJ-Zveto-IA-JAMG-
-JAMG
+www.jamg.co
