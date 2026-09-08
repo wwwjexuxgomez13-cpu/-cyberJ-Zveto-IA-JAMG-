@@ -1,5 +1,7 @@
+Protocolo PI VCT / JAMG-FINTECH-OS
+[W6ZE3R-446JR]
 
-∅AI 
+IT∅AI 
 $\boldsymbol{1045668717}$
 text
 **$\nu_{jamg} = 1045668717 \text{ Hz}$  (1.045668717 GHz)**
