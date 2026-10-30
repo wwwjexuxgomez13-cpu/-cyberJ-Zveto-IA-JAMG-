@@ -11,3 +11,5 @@ $$\lambda_{jamg} = \frac{c}{\nu_{jamg}} = \frac{299792458 \text{ m/s}}{104566871
 $$E = h \cdot \nu_{jamg}$$
 
 https://jamg-vct-jesus-mercado-2.polsia.io/#como-funciona
+
+git push gitlab main
